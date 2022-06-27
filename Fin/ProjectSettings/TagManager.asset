@@ -7,6 +7,9 @@ TagManager:
   - Item
   - chest
   - panel
+  - Fire
+  - Water
+  - Bouffe
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Item
   - 
   - 
   - 
