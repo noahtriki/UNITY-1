@@ -41,7 +41,7 @@ public class inventory : MonoBehaviour
         inventoryPanel.SetActive(false);
     }
 
-    private void RefreshContent()
+    public void RefreshContent()
     {
         for (int i = 0; i < content.Count; i++)
         {

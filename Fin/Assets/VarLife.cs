@@ -113,7 +113,7 @@ public class VarLife : MonoBehaviour
             RespawnText.SetActive(true);
             if (Input.GetKeyDown(KeyCode.E))
             {
-                playerMoveBehaviour.transform.position = new Vector3(285, 5, 371);
+                playerMoveBehaviour.transform.position = new Vector3(725, 9, 865);
                 RespawnText.SetActive(false);
                 vie = 50f;
                 faim = 100f;

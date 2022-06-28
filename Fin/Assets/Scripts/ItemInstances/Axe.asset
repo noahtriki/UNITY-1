@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e30c1d91eae4a748a82630ce7764369, type: 3}
-  m_Name: Wood
+  m_Name: Axe
   m_EditorClassIdentifier: 
-  name: Wood
-  visual: {fileID: 21300000, guid: 0e2ce69f82b02aa4c83f20ab2339e4ac, type: 3}
-  prefab: {fileID: 1493958779012120596, guid: b9de24523a11d714db3851b5f0f9d527, type: 3}
+  name: Axe
+  visual: {fileID: 0}
+  prefab: {fileID: 6454499749934941597, guid: 5c266243bdd7a6a4c8d069957f6bff9f, type: 3}
